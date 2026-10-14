@@ -23,7 +23,7 @@ Each folder holds a `SKILL.md`, the format Claude Code, the Claude apps and Code
 
 ```bash
 # Claude Code, personal install
-git clone https://github.com/OWNER/REPO.git && cp -R REPO/skills/* ~/.claude/skills/
+git clone https://github.com/steeltownai/toolkit.git && cp -R toolkit/skills/* ~/.claude/skills/
 # Codex reads .agents/skills/ in a project
 ```
 
