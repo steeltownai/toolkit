@@ -66,7 +66,7 @@ Every user picks a model, a prompt length and how long a thread runs, and each c
 
 ## Sources
 
-- [Gartner AI spending forecast, via CIO.com (Sept 2026)](https://www.cio.com/article/4225785/ai-spend-will-jump-49-5-in-2026-says-gartner.html)
+- [Gartner, worldwide AI spending forecast (Sept 2026)](https://www.gartner.com/en/newsroom/press-releases/2026-09-16-gartner-forecasts-worldwide-ai-spending-to-grow-49-point-5-percent-in-2026)
 - [Menlo Ventures, State of Generative AI in the Enterprise (Dec 2025)](https://menlovc.com/perspective/2025-the-state-of-generative-ai-in-the-enterprise/)
 - [Harness, State of AI in FinOps 2026 (vendor survey, June 2026)](https://www.harness.io/state-of-ai-in-finops-2026)
 - [FinOps Foundation, State of FinOps 2026 (Feb 2026)](https://www.linuxfoundation.org/press/state-of-finops-survey-ai-value-and-skills-top-priorities-as-finops-matures-across-technology-value-98-manage-ai-90-saas-64-licensing-48-data-center-1)
